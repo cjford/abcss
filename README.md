@@ -10,11 +10,7 @@ Run from the command line with input file and output file as arguments. If both 
 Requires the CSS file to be formatted as follows (tabs optional):
 
 	selector {
-
 		property1
-
 		property2
-
 		property3
-
 	}
